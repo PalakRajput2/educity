@@ -56,15 +56,16 @@
       
     }
     .program img{
-        flex-basis: 100px;
-       margin: 20px;
-      
+    flex-basis: 100px;
+    margin: 20px;
+    margin-left: 1px;   
     }
+   
+
     .caption{
-        top:4%;
-        left: 5%;
-        bottom: 4%;
-        right: -6%;
+        top:5%;
+        bottom: 5%;
+        right: 0%;
       
     }
 }
